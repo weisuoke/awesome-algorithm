@@ -1,0 +1,25 @@
+{
+  "name": "awesome-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dumi": "^1.0.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "dumi dev --port=8030",
+    "build": "dumi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/awesome-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/awesome-algorithm/issues"
+  },
+  "homepage": "https://github.com/weisuoke/awesome-algorithm#readme"
+}
