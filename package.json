@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "dumi": "^1.0.31"
+    "dumi": "^2.4.21"
   },
   "devDependencies": {},
   "scripts": {
